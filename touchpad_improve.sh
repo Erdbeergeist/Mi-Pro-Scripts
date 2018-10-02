@@ -10,6 +10,11 @@ synclient MaxSpeed=8
 synclient MinSpeed=1.5
 synclient HorizEdgeScroll=1
 synclient VertTwoFingerScroll=1
+synclient AreaRightEdge=3650
+synclient AreaTopEdge=74
+synclient AreaLeftEdge=104
+synclient AreaBottomEdge=2305
+
 
 for i in `seq 1 20`;
 do
