@@ -13,8 +13,7 @@ synclient VertTwoFingerScroll=1
 synclient AreaRightEdge=3650
 synclient AreaTopEdge=74
 synclient AreaLeftEdge=104
-synclient AreaBottomEdge=2305
-
+synclient AreaBottomEdge=2470
 
 for i in `seq 1 20`;
 do
