@@ -11,3 +11,9 @@ then
 	$(cp tlp-perf /etc/default/tlp)
 	tlp start
 fi
+
+if [ "$1" == "strong" ];
+then
+	$(cp tlp-bat-strong /etc/default/tlp)
+	tlp start
+fi
