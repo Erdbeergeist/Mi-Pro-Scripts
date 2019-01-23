@@ -6,6 +6,7 @@ synclient PalmDetect=1
 synclient PalmMinWidth=1
 synclient PalmMinZ=10
 synclient VertScrollDelta=60
+synclient HorizScrollDelta=25
 synclient MaxSpeed=8
 synclient MinSpeed=1.5
 synclient HorizEdgeScroll=1
@@ -13,7 +14,7 @@ synclient VertTwoFingerScroll=1
 synclient AreaRightEdge=3650
 synclient AreaTopEdge=74
 synclient AreaLeftEdge=104
-synclient AreaBottomEdge=2470
+#synclient AreaBottomEdge=2471
 
 for i in `seq 1 20`;
 do
